@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Firebase**
 
-- 📫 How to reach me **Muhammad.areeb01@gmail.com** OR **https://m_areeb.bio.link/**
+- 📫 How to reach me **mail.mareeb01@gmail.com** OR **https://m_areeb.bio.link/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
