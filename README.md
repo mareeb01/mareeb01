@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mail.mareeb01@gmail.com** OR **https://m_areeb.bio.link/**
   
-- 🔭 Portfolio **https://areeb-psi.vercel.app/**
+- 🔭 Portfolio **https://mareeb.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
